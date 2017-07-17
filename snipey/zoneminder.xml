@@ -13,7 +13,7 @@
   </Overview>
   <Registry>https://hub.docker.com/r/dlandon/zoneminder/</Registry>
   <GitHub>https://github.com/dlandon/zoneminder/tree/master</GitHub>
-  <Repository>dlandon/zoneminder/</Repository>
+  <Repository>dlandon/zoneminder</Repository>
   <BindTime>true</BindTime>
   <Privileged>true</Privileged>
     <Networking>
