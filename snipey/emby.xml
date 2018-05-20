@@ -10,7 +10,7 @@
     [b]/mnt[/b] : this path is used to add library locations to Emby.[br]
   </Description>
   <Registry>https://registry.hub.docker.com/u/nvllsvm/emby-unlocked/</Registry>
-  <Repository>nvllsvm/emby-unlocked/:latest</Repository>
+  <Repository>nvllsvm/emby-unlocked/tree/master/docker/:latest</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
